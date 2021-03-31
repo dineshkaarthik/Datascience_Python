@@ -1,2 +1,3 @@
 # Datascience_Python
-Data science using python
+Various ML models created using different classification and regression alogirthms. 
+Different techniques of visualization using seaborn and matplotlib
